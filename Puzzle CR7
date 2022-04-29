@@ -2,17 +2,17 @@
 "Ads":
   [
     {
-      "status_redirect":"0",
-      "link_redirect":"https://play.google.com/store/apps/details?id=",
-      "admob_inter":"ca-app-pub-9707905170887135/1476662183",
-      "admob_banner":"ca-app-pub-9707905170887135/4102825522",
-      "admob_open_ads":"ca-app-pub-9707905170887135/7850498842",
-      "select_ads":"APPLOVIN",
+      "status_redirect":"",
+      "link_redirect":"",
+      "admob_inter":"ca-app-pub-3940256099942544/1033173712",
+      "admob_banner":"ca-app-pub-3940256099942544/6300978111",
+      "admob_open_ads":"ca-app-pub-3940256099942544/1033173712",
+      "select_ads":"UNITY",
       "interval":"5",
-      "unityID":"4731140",
+      "unityID":"3896203",
       "unity_banner":"bannerid",
       "unity_inter":"video",
-      "startappid":"203979304"   
+      "startappid":"123456789"   
     }
   ],
  
